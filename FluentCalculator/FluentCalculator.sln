@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentCalculator", "FluentCalculator.csproj", "{FFEEADF2-8378-4CB3-A253-BF1DDAC6D2E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SomeBool", "..\SomeBool\SomeBool.csproj", "{8EFD39C0-F173-4E78-928D-950EE5D6504B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFEEADF2-8378-4CB3-A253-BF1DDAC6D2E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFEEADF2-8378-4CB3-A253-BF1DDAC6D2E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFEEADF2-8378-4CB3-A253-BF1DDAC6D2E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFEEADF2-8378-4CB3-A253-BF1DDAC6D2E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EFD39C0-F173-4E78-928D-950EE5D6504B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EFD39C0-F173-4E78-928D-950EE5D6504B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EFD39C0-F173-4E78-928D-950EE5D6504B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EFD39C0-F173-4E78-928D-950EE5D6504B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0DDBBB9-FB49-4EC0-87E2-F2C4241D04C1}
+	EndGlobalSection
+EndGlobal
